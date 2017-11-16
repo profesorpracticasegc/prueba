@@ -4,6 +4,6 @@ def holamundo(mensaje):
 def adiosmundo():
 	print "adios mundo"
 
-mensaje = "mensaje"
+mensaje = "este es un mensaje de prueba"
 holamundo()
 adiosmundo(mensaje)
