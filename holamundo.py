@@ -1,1 +1,4 @@
-print "hola mundo"
+def holamundo():
+	print "hola mundo"
+
+holamundo()
