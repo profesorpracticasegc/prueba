@@ -5,3 +5,4 @@ def adiosmundo():
 	print "adios mundo"
 
 holamundo()
+adiosmundo(),
