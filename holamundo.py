@@ -1,5 +1,5 @@
 def holamundo(mensaje, x, z):
-	if z < 10:
+	if z < 16:
 		print "el valor %d es mas pequeno que 10" %(z)
 
 	print "hola mundo " + mensaje + x
